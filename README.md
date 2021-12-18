@@ -1,6 +1,6 @@
 # SquaDrone
 
-Live site link of [SquaDrone](https://github.com/facebook/create-react-app).
+Live site link of [SquaDrone](squa-drone-2e97b.firebaseapp.com).
 
 ## Description
 This is a Single Product Category Selling Website named SquaDrone.
