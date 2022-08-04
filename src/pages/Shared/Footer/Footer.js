@@ -36,7 +36,7 @@ const Footer = () => {
                 </Row>
             </Container>
             <div style={{ backgroundColor: '#000000' }} className='py-3 text-white text-center'>
-                <p className='text-white mt-2'>Copyright &copy; by  <span className='text-info'>Monjurur Kader Shipu</span></p>
+                <p className='text-white mt-2'>Copyright &copy; by  <span className='text-info'>Minhajul Islam Rony</span></p>
             </div>
         </div>
     );
